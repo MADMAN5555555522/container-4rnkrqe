@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "MADMAN5555555522",
+  "repo": "container-4rnkrqe",
+  "name": "MADMAN5555555522",
+}
